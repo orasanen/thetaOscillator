@@ -21,8 +21,8 @@ See SylSegDemo.m for an example.
 
 If you use this algorithm in publications, please cite:
 
-Rasanen, O., Doyle, G. & Frank, M. C. (in press). Pre-linguistic segmentation of
-speech into syllable-like units. Cognition.
+Rasanen, O., Doyle, G. & Frank, M. C. (2018). Pre-linguistic segmentation of
+speech into syllable-like units. Cognition, 171, 130–150.
 
 ------------
 
